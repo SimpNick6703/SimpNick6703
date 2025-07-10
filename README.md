@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub profile views](https://komarev.com/ghpvc/?username=simpnick&color=009999&style=for-the-badge)
+![GitHub profile views](https://komarev.com/ghpvc/?username=simpnick&color=009999&style=for-the-badge) <!-- *(since 10 July 2025)* -->
 
 I'm **SimpNick6703**, a software developer passionate about building scalable web apps, AI-powered systems, and automation tools. My work spans Python, JavaScript, and modern web frameworks—creating robust solutions from backend APIs to sleek frontends. I love fusing technology and creativity to solve real-world problems.
 
